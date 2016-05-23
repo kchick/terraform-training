@@ -165,3 +165,4 @@ Tearing it all down
   all the resources have been destroyed
 1. Back on the settings page, you can optionally delete all of Atlas' metadata
   about the environment by clicking the red "Delete from Atlas" button
+# terraform-training
