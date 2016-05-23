@@ -86,3 +86,7 @@ resource "aws_instance" "haproxy" {
     ]
   }
 }
+
+
+
+
